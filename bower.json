@@ -1,0 +1,12 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/edean11/grunt-test-project",
+  "authors": [
+    "edean11 <edean1010@gmail.com>"
+  ],
+  "description": "This App is a testof using grunt rather than prepr",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}
